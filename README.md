@@ -5,8 +5,6 @@ Internifyy is a modern, full-stack platform for both **job applicants** and **re
 💡 The Motivation
 I built Internifyy because I was tired of the "fragmented" job search: applying on one site, reviewing my resume on another, and tracking progress. I wanted one home for the entire journey.
 
-Link: https://internifyy.vercel.app/
----
 
 ## **Features**
 
