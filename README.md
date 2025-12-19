@@ -2,6 +2,9 @@
 
 Internifyy is a modern, full-stack platform for both **job applicants** and **recruiters**. Applicants can search and apply for jobs, while recruiters can post jobs, track applications via a drag-and-drop **Kanban board**, and visualize analytics with **Chart.js**.
 
+💡 The Motivation
+I built Internifyy because I was tired of the "fragmented" job search: applying on one site, reviewing my resume on another, and tracking progress. I wanted one home for the entire journey.
+
 Link: https://internifyy.vercel.app/
 ---
 
